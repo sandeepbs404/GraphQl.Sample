@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQl.Server", "GraphQl.Server\GraphQl.Server.csproj", "{4191FDC1-E57B-4C05-B5DD-09E4C05F08AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarphQl.Core", "GarphQl.Core\GarphQl.Core.csproj", "{F70B8A90-6EF4-44B2-A164-B12CACA16408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4191FDC1-E57B-4C05-B5DD-09E4C05F08AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4191FDC1-E57B-4C05-B5DD-09E4C05F08AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4191FDC1-E57B-4C05-B5DD-09E4C05F08AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4191FDC1-E57B-4C05-B5DD-09E4C05F08AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F70B8A90-6EF4-44B2-A164-B12CACA16408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70B8A90-6EF4-44B2-A164-B12CACA16408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70B8A90-6EF4-44B2-A164-B12CACA16408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70B8A90-6EF4-44B2-A164-B12CACA16408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD4FD065-CB19-422C-A120-533EE7E63344}
+	EndGlobalSection
+EndGlobal

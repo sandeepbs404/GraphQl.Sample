@@ -1,0 +1,11 @@
+F:\Learning\GraphQl\GraphQl.Sample\GraphQl.Core\bin\Debug\netcoreapp2.0\GraphQl.Server.deps.json
+F:\Learning\GraphQl\GraphQl.Sample\GraphQl.Core\bin\Debug\netcoreapp2.0\GraphQl.Server.runtimeconfig.json
+F:\Learning\GraphQl\GraphQl.Sample\GraphQl.Core\bin\Debug\netcoreapp2.0\GraphQl.Server.runtimeconfig.dev.json
+F:\Learning\GraphQl\GraphQl.Sample\GraphQl.Core\bin\Debug\netcoreapp2.0\GraphQl.Server.dll
+F:\Learning\GraphQl\GraphQl.Sample\GraphQl.Core\bin\Debug\netcoreapp2.0\GraphQl.Server.pdb
+F:\Learning\GraphQl\GraphQl.Sample\GraphQl.Core\obj\Debug\netcoreapp2.0\GraphQl.Server.csprojResolveAssemblyReference.cache
+F:\Learning\GraphQl\GraphQl.Sample\GraphQl.Core\obj\Debug\netcoreapp2.0\GraphQl.Server.csproj.CoreCompileInputs.cache
+F:\Learning\GraphQl\GraphQl.Sample\GraphQl.Core\obj\Debug\netcoreapp2.0\GraphQl.Server.AssemblyInfoInputs.cache
+F:\Learning\GraphQl\GraphQl.Sample\GraphQl.Core\obj\Debug\netcoreapp2.0\GraphQl.Server.AssemblyInfo.cs
+F:\Learning\GraphQl\GraphQl.Sample\GraphQl.Core\obj\Debug\netcoreapp2.0\GraphQl.Server.dll
+F:\Learning\GraphQl\GraphQl.Sample\GraphQl.Core\obj\Debug\netcoreapp2.0\GraphQl.Server.pdb
